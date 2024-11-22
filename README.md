@@ -62,7 +62,7 @@ You can learn more in
 
 In this assginment, I used Vite to build a source.
 
-### Run PROJEC
+### Run PROJECT
 
 To run this PROJECT, please install:
 
